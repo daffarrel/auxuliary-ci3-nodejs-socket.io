@@ -13,9 +13,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '10.0.24.45',
-	'username' => 'tcid_att',
-	'password' => 'TCID2017!',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'tcid_att',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
