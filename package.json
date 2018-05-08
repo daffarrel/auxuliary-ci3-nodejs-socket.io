@@ -1,0 +1,9 @@
+{
+  "name": "AUX_SYSTEM",
+  "version": "2.0.0",
+  "private": true,
+  "dependencies": {
+                    "express": "~2.5.8",
+                    "socket.io": "~1.4.5"
+                  }
+}
